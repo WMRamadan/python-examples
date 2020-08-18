@@ -11,6 +11,7 @@ def letters_file_line(n):
                 f.writelines(letters)
         os.system('git add .')
         os.system('git commit -m "%s"' % i)
+    os.system('git push')
 
 
 letters_file_line(3)
