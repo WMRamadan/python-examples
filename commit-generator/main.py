@@ -14,4 +14,4 @@ def letters_file_line(n):
     os.system('git push')
 
 
-letters_file_line(1300)
+letters_file_line(1234)
