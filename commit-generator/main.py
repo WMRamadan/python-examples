@@ -4,7 +4,7 @@ import os
 
 def letters_file_line(n):
     for i in range(n):
-        with open("words%s.txt" % i, "w") as f:
+        with open("files/words%s.txt" % i, "w") as f:
             alphabet = string.ascii_uppercase
             for i in range(0, len(alphabet), n):
                 letters = [alphabet[i:i + n] + "\n"]
