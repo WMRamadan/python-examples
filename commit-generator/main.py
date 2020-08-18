@@ -8,7 +8,7 @@ def letters_file_line(n):
        letters = [alphabet[i:i + n] + "\n" for i in range(0, len(alphabet), n)]
        f.writelines(letters)
        os.system('git add .')
-       os.system('git commit -m "{}"').format(letters)
+       os.system('git commit -m "%s"') %letters
 
 
 letters_file_line(3)
