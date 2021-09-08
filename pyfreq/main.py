@@ -1,9 +1,8 @@
 import os
+import play_sine
 import tkinter as tk
 from tkinter.constants import HORIZONTAL
 
-from numpy import frexp
-import play_sine
 
 freq_val = 40
 amp_val = 0.0

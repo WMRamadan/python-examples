@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Play a sine signal."""
 import argparse
-import sys
-
 import numpy as np
 import sounddevice as sd
 
