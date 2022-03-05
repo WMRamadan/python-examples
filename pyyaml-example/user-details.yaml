@@ -1,0 +1,11 @@
+# Example YAML file
+
+Users:
+
+  UserName: TestUser
+  Password: SuperSecretPassword
+  Phone: 123-456-7890
+  SkillsList:
+    - Python
+    - JavaScript
+    - C/C++ 
