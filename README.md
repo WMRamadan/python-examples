@@ -1,2 +1,2 @@
-# python-examples
-Examples of using different python libraries and concepts in Jupyter notebooks.
+# Python Examples
+Examples of using different python libraries and concepts.
