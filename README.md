@@ -16,3 +16,5 @@ Examples of using different python libraries and concepts.
 - tensorflow
 - nltk
 - numpy
+- timeit
+- julia
