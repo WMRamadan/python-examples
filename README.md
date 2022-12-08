@@ -8,3 +8,4 @@ Examples of using different python libraries and concepts.
 - Strings
 - Sorting
 - Multiprocessing
+- Garbage Collection
