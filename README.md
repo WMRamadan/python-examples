@@ -15,3 +15,4 @@ Examples of using different python libraries and concepts.
 - wxpython
 - tensorflow
 - nltk
+- numpy
