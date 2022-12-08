@@ -13,4 +13,4 @@ Examples of using different python libraries and concepts.
 ## Libraries
 
 - wxpython
-- tensoflow
+- tensorflow
