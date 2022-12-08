@@ -19,3 +19,4 @@ Examples of using different python libraries and concepts.
 - timeit
 - julia
 - pynput
+- soundfile
