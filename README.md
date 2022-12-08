@@ -21,3 +21,4 @@ Examples of using different python libraries and concepts.
 - pynput
 - soundfile
 - tkinter
+- swift_module
