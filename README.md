@@ -9,3 +9,7 @@ Examples of using different python libraries and concepts.
 - Sorting
 - Multiprocessing
 - Garbage Collection
+
+## Libraries
+
+- wxpython
