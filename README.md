@@ -2,13 +2,14 @@
 
 Examples of using different python libraries and concepts.
 
-## Concepts
+## Topics
 
 - Lists
 - Strings
 - Sorting
 - Multiprocessing
 - Garbage Collection
+- Algorithms
 
 ## Libraries
 
