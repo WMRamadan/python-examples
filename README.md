@@ -10,6 +10,7 @@ Examples of using different python libraries and concepts.
 - Multiprocessing
 - Garbage Collection
 - Algorithms
+- Design Patterns
 
 ## Libraries
 
