@@ -26,7 +26,7 @@ print(f"This is the original object after modification:\n{my_object.dict_data}\n
 
 # Convert byte serialized format back to orginal data type
 my_byte_string_unpickled_object = pickle.loads(my_byte_string_pickled_object)
-print(f"a_dict of unpickled object:\n{my_byte_string_unpickled_object.dict_data}\n")
+print(f"dict_data of unpickled object:\n{my_byte_string_unpickled_object.dict_data}\n")
 
 with open('data.pickle', 'rb') as file:
     # Convert file serialized format back to orginal data type
