@@ -7,6 +7,7 @@ Examples of using different python libraries and concepts.
 - Lists
 - Strings
 - Sorting
+- Parsing
 - Multiprocessing
 - Garbage Collection
 - Algorithms
