@@ -1,4 +1,6 @@
-cffi==1.14.6
-numpy==1.21.2
-pycparser==2.20
-sounddevice==0.4.2
+cffi>=1.15.1
+numpy>=1.26.0
+pycparser>=2.21
+sounddevice>=0.4.6
+setuptools>=68.0.0
+wheel>=0.41.0
