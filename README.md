@@ -12,6 +12,7 @@ Examples of using different python libraries and concepts.
 - Garbage Collection
 - Algorithms
 - Design Patterns
+- Audio
 
 ## Libraries
 
