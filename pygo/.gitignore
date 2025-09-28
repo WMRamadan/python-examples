@@ -1,0 +1,9 @@
+# Ignore C/C++ header and shared library files
+*.h
+*.so
+
+# Optional: Python bytecode and virtual environment
+__pycache__/
+*.py[cod]
+venv/
+.env/
