@@ -5,6 +5,7 @@ A Python based tone generator.
 ![PyFreQ Screenshot](img/pyfreq-screenshot.png)
 
 ## OS Requirements
+- Python3
 - Tkinter
 
 ## Setup:
